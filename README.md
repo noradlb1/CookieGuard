@@ -8,8 +8,13 @@ CookieGuard
 -- --
 
 Telegram: @MONSTERMC
+
+
 Discord: www.discord.gg/EMmKTjwnF3
+
+
 Site: https://nomorelife1.github.io/CookieGuard/loading.html
+
 
 Proof Videos: https://www.youtube.com/@CookieGuard-lh3fg/videos
 =======================
