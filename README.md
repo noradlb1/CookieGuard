@@ -2,4 +2,4 @@
 CookieGuard
 
 
-![](CookieGuard.PNG)
+![](CookieGuard.png)
